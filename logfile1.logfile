@@ -1,0 +1,192 @@
+0.000000 - Simulator program starting
+0.000003 - OS: selecting next process
+0.000012 - OS: preparing process 1
+0.000023 - OS: starting process 1
+0.000044 - Process 1: start keyboard input
+0.000052 - OS: starting keyboard input
+0.000059 - OS: Process 1 to Blocked
+0.000082 - OS: selecting next process
+0.000090 - OS: preparing process 2
+0.000096 - OS: starting process 2
+0.000102 - Process 2: start processing action
+0.060119 - OS: quantum time interrpt
+0.060184 - OS: Process 2 to Ready
+0.060196 - OS: selecting next process
+0.060207 - Process 2: start processing action
+0.080452 - Process 2: end processing action
+0.080577 - Process 2: start monitor output
+0.080597 - OS: starting monitor output
+0.080607 - OS: Process 2 to Blocked
+0.080651 - OS: selecting next process
+0.080663 - OS: preparing process 3
+0.080673 - OS: starting process 3
+0.080683 - Process 3: start hard drive input
+0.080695 - OS: starting hard drive input
+0.080704 - OS: Process 3 to Blocked
+0.080738 - OS: selecting next process
+0.080748 - OS: preparing process 4
+0.080758 - OS: starting process 4
+0.080768 - Process 4: start processing action
+0.140783 - OS: quantum time interrpt
+0.140819 - OS: Process 4 to Ready
+0.140831 - OS: selecting next process
+0.140842 - Process 4: start processing action
+0.150855 - Process 4: end processing action
+0.150922 - Process 4: start processing action
+0.205757 - OS: quantum time interrpt
+0.205860 - OS: Process 4 to Ready
+0.205883 - OS: selecting next process
+0.205897 - Process 4: start processing action
+0.265917 - OS: quantum time interrpt
+0.266058 - OS: Process 4 to Ready
+0.266082 - OS: selecting next process
+0.266104 - Process 4: start processing action
+0.280983 - Process 2: end monitor output
+0.286140 - OS: Process 4 to Ready
+0.286230 - OS: Process 2 to Ready
+0.286248 - OS: selecting next process
+0.286268 - Process 2: start keyboard input
+0.286281 - OS: starting keyboard input
+0.286291 - OS: Process 2 to Blocked
+0.286372 - OS: selecting next process
+0.286387 - Process 4: start processing action
+0.306400 - Process 4: end processing action
+0.306457 - Process 4: start hard drive input
+0.306472 - OS: starting hard drive input
+0.306482 - OS: Process 4 to Blocked
+0.306563 - OS: selecting next process
+0.306577 - OS: preparing process 5
+0.306587 - OS: starting process 5
+0.306597 - Process 5: start keyboard input
+0.306609 - OS: starting keyboard input
+0.306619 - OS: Process 5 to Blocked
+0.331152 - Process 3: end hard drive input
+0.335313 - OS: Process 3 to Ready
+0.335660 - OS: selecting next process
+0.335714 - Process 3: start processing action
+0.395036 - Process 3: end processing action
+0.395126 - Process 3: start hard drive output
+0.395144 - OS: starting hard drive output
+0.395155 - OS: Process 3 to Blocked
+0.650711 - Process 3: end hard drive output
+0.650939 - OS: Process 3 to Ready
+0.650962 - OS: selecting next process
+0.650975 - Process 3: start keyboard input
+0.650986 - OS: starting keyboard input
+0.650996 - OS: Process 3 to Blocked
+1.015370 - Process 4: end hard drive input
+1.015419 - OS: Process 4 to Ready
+1.015442 - OS: selecting next process
+1.015457 - Process 4: start monitor output
+1.015470 - OS: starting monitor output
+1.015480 - OS: Process 4 to Blocked
+1.146031 - Process 4: end monitor output
+1.146117 - OS: Process 4 to Ready
+1.146132 - OS: selecting next process
+1.146156 - Process 4: start processing action
+1.211738 - OS: quantum time interrpt
+1.211820 - OS: Process 4 to Ready
+1.211840 - OS: selecting next process
+1.211862 - Process 4: start processing action
+1.279137 - OS: quantum time interrpt
+1.279253 - OS: Process 4 to Ready
+1.279267 - OS: selecting next process
+1.279284 - Process 4: start processing action
+1.291667 - Process 4: end processing action
+1.291783 - OS: ending process 4
+1.291799 - OS: removing process 4
+5.000092 - Process 1: end keyboard input
+5.000277 - OS: Process 1 to Ready
+5.000301 - OS: selecting next process
+5.000315 - Process 1: start hard drive output
+5.000328 - OS: starting hard drive output
+5.000339 - OS: Process 1 to Blocked
+5.708406 - Process 1: end hard drive output
+5.708597 - OS: Process 1 to Ready
+5.708653 - OS: selecting next process
+5.708668 - Process 1: start processing action
+5.768687 - OS: quantum time interrpt
+5.768791 - OS: Process 1 to Ready
+5.768805 - OS: selecting next process
+5.768822 - Process 1: start processing action
+5.821048 - Process 1: end processing action
+5.821208 - Process 1: start processing action
+5.831231 - OS: quantum time interrpt
+5.832333 - OS: Process 1 to Ready
+5.832410 - OS: selecting next process
+5.832449 - Process 1: start processing action
+5.892493 - OS: quantum time interrpt
+5.892566 - OS: Process 1 to Ready
+5.892583 - OS: selecting next process
+5.892603 - Process 1: start processing action
+5.933680 - Process 1: end processing action
+5.933731 - Process 1: start hard drive input
+5.933747 - OS: starting hard drive input
+5.933757 - OS: Process 1 to Blocked
+6.639529 - Process 1: end hard drive input
+6.639739 - OS: Process 1 to Ready
+6.639761 - OS: selecting next process
+6.639773 - OS: ending process 1
+6.639783 - OS: removing process 1
+7.286790 - Process 2: end keyboard input
+7.286838 - OS: Process 2 to Ready
+7.286860 - OS: selecting next process
+7.286871 - Process 2: start processing action
+7.346887 - OS: quantum time interrpt
+7.347018 - OS: Process 2 to Ready
+7.347043 - OS: selecting next process
+7.347065 - Process 2: start processing action
+7.407228 - OS: quantum time interrpt
+7.407368 - OS: Process 2 to Ready
+7.407392 - OS: selecting next process
+7.407414 - Process 2: start processing action
+7.417435 - Process 2: end processing action
+7.417516 - Process 2: start hard drive output
+7.417532 - OS: starting hard drive output
+7.417538 - OS: Process 2 to Blocked
+7.718085 - Process 2: end hard drive output
+7.718295 - OS: Process 2 to Ready
+7.718317 - OS: selecting next process
+7.718329 - OS: ending process 2
+7.718338 - OS: removing process 2
+10.311591 - Process 5: end keyboard input
+10.311638 - OS: Process 5 to Ready
+10.311661 - OS: selecting next process
+10.311675 - Process 5: start monitor output
+10.311689 - OS: starting monitor output
+10.311699 - OS: Process 5 to Blocked
+10.586888 - Process 5: end monitor output
+10.587210 - OS: Process 5 to Ready
+10.587250 - OS: selecting next process
+10.587272 - Process 5: start hard drive input
+10.587289 - OS: starting hard drive input
+10.587323 - OS: Process 5 to Blocked
+11.087785 - Process 5: end hard drive input
+11.087836 - OS: Process 5 to Ready
+11.087859 - OS: selecting next process
+11.087873 - Process 5: start monitor output
+11.087885 - OS: starting monitor output
+11.087895 - OS: Process 5 to Blocked
+11.412930 - Process 5: end monitor output
+11.412979 - OS: Process 5 to Ready
+11.412998 - OS: selecting next process
+11.413006 - Process 5: start hard drive input
+11.413013 - OS: starting hard drive input
+11.413019 - OS: Process 5 to Blocked
+12.113164 - Process 5: end hard drive input
+12.113211 - OS: Process 5 to Ready
+12.113230 - OS: selecting next process
+12.113242 - OS: ending process 5
+12.113275 - OS: removing process 5
+15.657367 - Process 3: end keyboard input
+15.657405 - OS: Process 3 to Ready
+15.657428 - OS: selecting next process
+15.657442 - Process 3: start hard drive output
+15.657454 - OS: starting hard drive output
+15.657464 - OS: Process 3 to Blocked
+16.157535 - Process 3: end hard drive output
+16.157573 - OS: Process 3 to Ready
+16.157590 - OS: selecting next process
+16.157597 - OS: ending process 3
+16.157603 - OS: removing process 3
+16.157609 - Simulator program ending
