@@ -7,6 +7,9 @@ The machine takes one of the five states (Enter, Ready, Waiting, Running, or Exi
 Given a meta-data file for some programs (i.e., potentially unlimited number), 
 it run the programs concurrently using a multi-programming strategy, and then ends the simulation.
 
+## Testcase
+[![asciicast](https://asciinema.org/a/3sxkqoa88ksxd4si78vehme3o.png)](https://asciinema.org/a/3sxkqoa88ksxd4si78vehme3o)
+
 ## Specification
 ### Meta file
 Program meta-data components:
@@ -50,10 +53,6 @@ Meta-data operation:
 > make
 > ./ossim config
 ```
-
-## Testcase
-[![asciicast](https://asciinema.org/a/e0uincumck1oovv3952vjtbpg.png)](https://asciinema.org/a/e0uincumck1oovv3952vjtbpg)
-
 ## Licence
 * MIT License
 
